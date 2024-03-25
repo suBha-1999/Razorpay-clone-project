@@ -1,9 +1,8 @@
 {
-  "homepage": "https://suBha-1999.github.io/Razorpay-clone",
+  
   "scripts": {
     "start": "vite"
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",  
+    
   },
   "devDependencies": {
     "autoprefixer": "^10.4.18",
