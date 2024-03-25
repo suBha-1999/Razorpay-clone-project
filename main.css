@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+/* <div >
+                    <!-- left part -->
+
+                    <h3>Manage your company's finances with
+                        <img src="./images/razorpayX.svg" alt="">
+                        <span>business Banking</span>
+                    </h3>
+                    <ul>
+                        <li>
+                            <i></i>
+                            <span>Open a fully digital current account</span>
+                        </li>
+                        <li>
+                            <i></i>
+                            <span>Automate payables & compliment payments</span>
+                        </li>
+                        <li>
+                            <i></i>
+                            <span>Simplify and track spends with Corporate cards</span>
+                        </li>
+                        <li>
+                            <i></i>
+                            <span>View financial inslights at a glance</span>
+                        </li>
+                    </ul>
+                    <div>
+                        <button>Sign Up</button>
+                        <!-- /hyperlink -->
+                        <div>
+                            <a href="">Know More</a>
+                        </div>
+                    </div>
+                    <!-- background img  -->
+                    <img src="./images/buisness-banking.png" alt="">
+
+                </div> */
